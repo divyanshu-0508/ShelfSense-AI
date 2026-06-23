@@ -250,7 +250,7 @@ ShelfSense/
 
 **Arpit Chouhan**
 
-**
+
 
 B.Tech – Artificial Intelligence & Machine Learning
 
