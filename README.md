@@ -244,7 +244,7 @@ ShelfSense/
 
 ---
 
-# 👨‍💻 Contributors
+# 👨‍💻 CONTRIBUTORS
 
 **Divyanshu Garg**
 
